@@ -1,0 +1,6 @@
+{
+    "name": "taobao/TopClient",
+    "autoload": {
+        "files": ["src/TopSdk.php"]
+    }
+}
